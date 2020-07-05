@@ -20,7 +20,7 @@ The following are references to visualizations made with the various datasets in
 
 
 
-### Contact
+## Contact
 
 If you have any doubt about the use of the data or intend to use it for any investigation, you can contact:
 
