@@ -10,7 +10,7 @@ Authors:
 - Garcia, Ricardo
 - Martin, Anahí
 
-Department of Information and Communication Sciences
+Department of Information and Communication Sciences.
 Open University of Catalonia
 
 
