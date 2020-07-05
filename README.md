@@ -4,7 +4,12 @@ In this place we can find the data sets used for the development of the article 
 
 ## Knowledge Transfer Process Visualization: dealing with complexity
 
-Cavaller, V.; Garcia, R.; Martin, A.
+Authors:
+
+- Cavaller, Victor
+- Garcia, Ricardo
+- Martin, Anahí
+
 Department of Information and Communication Sciences
 Open University of Catalonia
 
