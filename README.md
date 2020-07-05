@@ -19,7 +19,7 @@ Open University of Catalonia
 The following are references to visualizations made with the various datasets in Tableau:
 
 - https://public.tableau.com/profile/ricardo.garcia.ruiz#!/vizhome/Visualizacin_dinmica_transferencia_conocimiento_v2_15934117191730/Dashboard3
-- https://public.tableau.com/profile/anah.1253#!/vizhome/Prueba_concepto_20200703/Dashboard1
+- https://public.tableau.com/profile/anah.1253#!/vizhome/KnowledgeTransferProcessVisualization/Dashboard1
 
 ## Contact
 
