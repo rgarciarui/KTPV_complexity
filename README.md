@@ -14,6 +14,10 @@ Department of Information and Communication Sciences.
 
 Open University of Catalonia
 
+## Tableau visualizations
+
+The following are references to visualizations made with the various datasets in Tableau:
+
 
 
 ### Support or Contact
