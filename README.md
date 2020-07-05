@@ -20,6 +20,9 @@ The following are references to visualizations made with the various datasets in
 
 
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any doubt about the use of the data or intend to use it for any investigation, you can contact:
+
+- Ricardo Garcia Ruiz:  rgarciarui@uoc.edu
+- Victor Cavaller:      vcavaller@uoc.edu.
