@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+# Dataset for the article presented at ICICKM 2020
 
-You can use the [editor on GitHub](https://github.com/rgarciarui/KTPV_complexity/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In this place we can find the data sets used for the development of the article presented to the ICICKM 2020 international conference: https://www.academic-conferences.org/conferences/icickm/icickm-call-for-papers/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Knowledge Transfer Process Visualization: dealing with complexity
 
-### Markdown
+Cavaller, V.; Garcia, R.; Martin, A.
+Department of Information and Communication Sciences
+Open University of Catalonia
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
